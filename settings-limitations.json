@@ -1,0 +1,9 @@
+{
+  "actions": "gh: You must have repository read permissions or have the repository Actions policies fine-grained permission. (HTTP 403)",
+  "workflow_permissions": "gh: You must have repository read permissions or have the repository Actions policies fine-grained permission. (HTTP 403)",
+  "runners": "gh: You must have repository read permissions or have the repository runners fine-grained permission. (HTTP 403)",
+  "hooks": "gh: Not Found (HTTP 404)\ngh: This API operation needs the \"admin:repo_hook\" scope. To request it, run:  gh auth refresh -h github.com -s admin:repo_hook",
+  "keys": "gh: Not Found (HTTP 404)",
+  "teams": "gh: Not Found (HTTP 404)",
+  "autolinks": "gh: Not Found (HTTP 404)"
+}
